@@ -16,7 +16,7 @@
     "xmltodict",
     "brotli",
     "these-united-states==1.1.0.21",
-    "pyfuelprices @ git+https://github.com/doopey655/ha-fuelprices.git"
+    "pyfuelprices @ git+https://github.com/doopey655/pyfuelprices"
   ],
   "ssdp": [],
   "version": "0.0.0",
